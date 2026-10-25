@@ -6,10 +6,10 @@
 ---
 
 ### Student Details
-- **Student Name:** MEGA VARSAN VE
-- **Roll Number:** 717825I231
-- **Register Number:** 717825I231
-- **Year / Semester / Section:** II / III / B
+- **Student Name:** PRAVEEN S
+- **Roll Number:** 717825I343
+- **Register Number:** 717825I343
+- **Year / Semester / Section:** II / III / C
 - **Department:** Artificial Intelligence and Data Science (AD)
 - **Course Code & Title:** 23CSR306 - Java Programming
 - **Date of Submission:** 25-10-2026
