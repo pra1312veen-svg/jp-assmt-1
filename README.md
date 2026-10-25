@@ -14,7 +14,7 @@
 - **Course Code & Title:** 23CSR306 - Java Programming
 - **Date of Submission:** 25-10-2026
 
-- **Repository URL:** `https://github.com/tcgmegavarsan-sys/Java-Programming-Mini-Project-Assignment-II`
+- **Repository URL:** `https://github.com/pra1312veen-svg/jp-assmt-1/Java-Programming-Mini-Project-Assignment-II`
 
 ### 1.1 Problem Statement
 Design and implement a Java console application for an **Inventory and Billing System** that handles product purchases, sales, customer types, and a reward points system for premium customers. The application demonstrates core object-oriented programming principles (**encapsulation**, **inheritance**, **aggregation/composition**, and **polymorphism**) and maintains accurate, atomic stock quantities across all operations.
